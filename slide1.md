@@ -4,15 +4,6 @@
 
 ## links
 
-- web: https://ashleygwilliams.github.io/a-very-brief-intro-to-rust/#1
-- github: https://github.com/ashleygwilliams/a-very-brief-intro-to-rust
-
-### PRs and issues welcome!
-
-made by [@ag_dubs](https://twitter.com/ag_dubs) who is, at best, an advanced beginner in Rust
-
-<hr>
-
 ### This guide is an intro to Rust syntax. It doesn't touch on concepts at all.
 
 ### Concepts are more important, but sometimes you need a little boost to get to a point where the concepts make sense.
