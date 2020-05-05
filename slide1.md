@@ -38,8 +38,6 @@ end
 ???
 Some note on slide.
 
-# Continued slide
-
 - bullet 1
 --
 
