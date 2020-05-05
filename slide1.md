@@ -1,6 +1,6 @@
 # a-very-brief-intro-to-rust
 
---
+---
 
 ## links
 
@@ -10,7 +10,7 @@
 
 ### This is that boost.
 
---
+---
 
 ## install rust
 
