@@ -14,4 +14,20 @@ class: center, middle
 
 # Introduction
 
-* This is some text
+* Code highlighting
+
+```ruby
+def add(a,b)
+  a + b
+end
+```
+Implicit return statement:
+
+```ruby
+def add(a,b)
+*  a + b
+end
+
+# Notice how there is no return statement.
+```
+
